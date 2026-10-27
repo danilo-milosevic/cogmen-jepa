@@ -3,10 +3,10 @@
 Претходни модел који смо анализирали је постизао одличне резултате код *embedded* уређаја, међутим могуће је развити комплексније моделе са бољим перформансама. У следећем поглављу размотрићемо модел дат у раду *COGMEN:COntextualized GNN based Multimodal Emotion recognitioN*, који је базиран на граф неуронским мрежама и трансформер архитектури. Овај модел постиже тренутно најбоље резултате у мулдимодалном препознавању емоција.
 
 
-{{include sections/3_emotion_gnn/1_motivation/main.md}}
+{{include sections/3_cogmen/1_motivation/main.md}}
 
-{{include sections/3_emotion_gnn/2_architecture/main.md}}
+{{include sections/3_cogmen/2_architecture/main.md}}
 
-{{include sections/3_emotion_gnn/3_results/main.md}}
+{{include sections/3_cogmen/3_results/main.md}}
 
-{{include sections/3_emotion_gnn/4_optimization/main.md}}
+{{include sections/3_cogmen/4_optimization/main.md}}

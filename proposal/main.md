@@ -1,8 +1,13 @@
 ---
+fontsize: 12pt
+linestretch: 1
+indent: true
 header-includes: |
   \usepackage{graphicx}
   \usepackage{array}
-  \usepackage[a4paper, total={6in, 8in}]{geometry}
+  \usepackage[a4paper, margin=2.5cm]{geometry}
+  \usepackage{indentfirst}
+  \setlength{\parindent}{12.7mm}
   \renewcommand{\contentsname}{Садржај}
 
   \usepackage{fontspec}
