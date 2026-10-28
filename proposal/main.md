@@ -8,6 +8,7 @@ header-includes: |
   \usepackage[a4paper, margin=2.5cm]{geometry}
   \usepackage{indentfirst}
   \setlength{\parindent}{12.7mm}
+  \AtBeginDocument{\frenchspacing}
   \renewcommand{\contentsname}{Садржај}
 
   \usepackage{fontspec}
