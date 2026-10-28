@@ -30,20 +30,24 @@ header-includes: |
 
 \newpage
 
-{{include sections/2_basics/main.md}}
+{{include sections/2_emotion_recognition/main.md}}
 
 \newpage
 
-{{include sections/3_cogmen/main.md}}
+{{include sections/3_basics/main.md}}
 
 \newpage
 
-{{include sections/4_jepa/main.md}}
+{{include sections/4_cogmen/main.md}}
 
 \newpage
 
-{{include sections/5_proposal/main.md}}
+{{include sections/5_jepa/main.md}}
 
 \newpage
 
-{{include sections/6_literature/main.md}}
+{{include sections/6_proposal/main.md}}
+
+\newpage
+
+{{include sections/7_literature/main.md}}
