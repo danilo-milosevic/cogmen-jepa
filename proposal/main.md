@@ -4,6 +4,7 @@ linestretch: 1
 indent: true
 header-includes: |
   \usepackage{graphicx}
+  \usepackage{float}
   \usepackage{array}
   \usepackage[a4paper, margin=2.5cm]{geometry}
   \usepackage{indentfirst}
