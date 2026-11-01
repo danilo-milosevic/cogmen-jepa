@@ -10,6 +10,7 @@ header-includes: |
   \usepackage{indentfirst}
   \setlength{\parindent}{12.7mm}
   \AtBeginDocument{\frenchspacing}
+  \makeatletter\renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}{3.25ex \@plus1ex \@minus.2ex}{1.5ex \@plus .2ex}{\normalfont\normalsize\bfseries}}\makeatother
   \renewcommand{\contentsname}{Садржај}
 
   \usepackage{fontspec}

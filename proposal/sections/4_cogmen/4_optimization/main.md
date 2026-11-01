@@ -55,7 +55,7 @@ $$
 Конверзија вредности $x_1$ се затим врши на следећи начин
 1. Одређујемо знак, експонент и мантису
 $$
-\begin{align*}
+\begin{aligned}
 e = 5,\ m= 2\\
 \\
 s &= \begin{cases} 
@@ -70,7 +70,7 @@ E_b &< -2^{e-1} \rightarrow E_b = -2^{e-1} \\
 M &= \text{round}(2^m(\dfrac{|x_1|}{2^E_b} - 1))\\
 M &> 2^m - 1 \rightarrow M = 2^m - 1\\
 M &< 0 \rightarrow M = 0
-\end{align*}
+\end{aligned}
 $$
 
 2. Одредимо квантизовану вредност
