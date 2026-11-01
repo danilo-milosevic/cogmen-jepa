@@ -13,7 +13,7 @@
 - Други приступ подразумева примену квантизације над целом мрежом.
 
 Перформансе модела пре квантизације су дати испод
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
 \includegraphics[width=10cm]{figures/3_models/cogmen_preq.png}
 \caption{Перформансе $COGMEN$ модела пре квантизације}
@@ -35,7 +35,7 @@ $$
 
 Перформансе након бинаризације знатно опадају, при чему бинаризација над слојевима са преко милион параметара постиже у појединим мерењима и до $10\%$ побољшања.
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
 \includegraphics[width=10cm]{figures/3_models/cogmen_bin.png}
 \caption{Перформансе $COGMEN$ модела након бинаризације}
@@ -80,7 +80,7 @@ $$
 
 Након квантизације, модел задржава практично идентичне перформансе. У овом случају, квантизација свих параметара доноси боље резултате него квантизација само слојева са преко милион параметара.
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
 \includegraphics[width=10cm]{figures/3_models/cogmen_fp8.png}
 \caption{Перформансе $COGMEN$ модела након квантизације на $float8$}
@@ -89,7 +89,7 @@ $$
 
 Како квантизација доводи до 4 пута мање потребне меморије, одлично је решење за смањење захтевности без пада у перформансама.
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
 \includegraphics[width=10cm]{figures/3_models/cogmen_mem.png}
 \caption{Меморијска захтевност $COGMEN$ модела у зависности од квантизације}

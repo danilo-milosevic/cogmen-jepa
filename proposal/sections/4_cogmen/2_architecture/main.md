@@ -2,7 +2,7 @@
 
 На слици испод можемо видети целокупну архитектуру *COGMEN* модела. 
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
 \includegraphics[width=10cm]{figures/3_models/cogmen_arch.png}
 \caption{Архитектура $COGMEN$а}
@@ -28,7 +28,7 @@ $$
 
 - аудио
 $$
-u_i^{(a)} \in \mathbb{R}^{d_а}
+u_i^{(a)} \in \mathbb{R}^{d_a}
 $$
 - текст
 $$
@@ -192,7 +192,7 @@ $$
 
 Што се тиче прозора $\mathcal{F}$ i $\mathcal{P}$, аутори су експериментално установили да најбоље резултате дају прозори од $4$ и $10$ изговора. Мањи прозори дају боље резултате код разговора где се тема често мења, док код дужих разговора боје резултате дају већи прозори.
 \newpage
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
 \includegraphics[width=7cm]{figures/3_models/cogmen_window.png}
 \caption{Перформансе $COGMEN$а у зависности од величине прозора}
