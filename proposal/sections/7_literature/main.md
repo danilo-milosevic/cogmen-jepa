@@ -1,6 +1,5 @@
 # 7. Литература
 
-## TODO -- SREDI LITERATURU
 1. S. Poria, E. Cambria, R. Bajpai, and A. Hussain, “A review of affective computing: From unimodal analysis to multimodal fusion,” *Information Fusion*, vol. 37, pp. 98–125, 2017.
 2. Y. Wang, W. Song, W. Tao, A. Liotta, D. Yang, X. Li, S. Gao, Y. Sun, W. Ge, W. Zhang, and W. Zhang, “A systematic review on affective computing: Emotion models, databases, and recent advances,” *Information Fusion*, vol. 83–84, pp. 19–52, 2022.
 3. P. Ekman, “An argument for basic emotions,” *Cognition and Emotion*, vol. 6, no. 3–4, pp. 169–200, 1992.
@@ -52,25 +51,41 @@
 49. A. Vaswani, N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones, A. N. Gomez, Ł. Kaiser, and I. Polosukhin, “Attention is all you need,” in *Advances in Neural Information Processing Systems 30*, 2017, pp. 5998–6008.
 50. A. Zhang, Z. C. Lipton, M. Li, and A. J. Smola, *Dive into Deep Learning*. Cambridge, U.K.: Cambridge University Press, 2023. [Online]. Available: https://d2l.ai
 51. K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image recognition,” in *Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2016, pp. 770–778.
-52. W. L. Hamilton, *Graph Representation Learning* (Synthesis Lectures on Artificial Intelligence and Machine Learning). San Rafael, CA, USA: Morgan & Claypool, 2020.
-53. B. Sanchez-Lengeling, E. Reif, A. Pearce, and A. B. Wiltschko, “A gentle introduction to graph neural networks,” *Distill*, 2021.
-54. J. Gilmer, S. S. Schoenholz, P. F. Riley, O. Vinyals, and G. E. Dahl, “Neural message passing for quantum chemistry,” in *Proc. 34th International Conference on Machine Learning (ICML)*, 2017, pp. 1263–1272.
-55. T. N. Kipf and M. Welling, “Semi-supervised classification with graph convolutional networks,” in *Proc. International Conference on Learning Representations (ICLR)*, 2017.
-56. U. Alon and E. Yahav, “On the bottleneck of graph neural networks and its practical implications,” in *Proc. International Conference on Learning Representations (ICLR)*, 2021.
-57. Q. Li, Z. Han, and X.-M. Wu, “Deeper insights into graph convolutional networks for semi-supervised learning,” in *Proc. AAAI Conference on Artificial Intelligence*, 2018, pp. 3538–3545.
-58. P. Veličković, G. Cucurull, A. Casanova, A. Romero, P. Liò, and Y. Bengio, “Graph attention networks,” in *Proc. International Conference on Learning Representations (ICLR)*, 2018.
-59. Y. Shi, Z. Huang, S. Feng, H. Zhong, W. Wang, and Y. Sun, “Masked label prediction: Unified message passing model for semi-supervised classification,” in *Proc. 30th International Joint Conference on Artificial Intelligence (IJCAI)*, 2021, pp. 1548–1554.
-60. V. P. Dwivedi and X. Bresson, “A generalization of transformer networks to graphs,” in *Proc. AAAI Workshop on Deep Learning on Graphs: Methods and Applications*, 2021.
-61. M. Schlichtkrull, T. N. Kipf, P. Bloem, R. van den Berg, I. Titov, and M. Welling, “Modeling relational data with graph convolutional networks,” in *The Semantic Web – ESWC 2018*, LNCS, vol. 10843, 2018, pp. 593–607.
-62. https://medium.com/\@RobuRishabh/recurrent-neural-network-rnn-8412b9abd755
-63. https://medium.com/\@fredroj/recurrent-neural-network-rnn-cell-internal-mechanism-ff5eca732adb
-64. https://www.geeksforgeeks.org/machine-learning/introduction-to-recurrent-neural-network/
-65. https://colah.github.io/posts/2015-08-Understanding-LSTMs/
-66. https://poloclub.github.io/transformer-explainer/
-67. https://medium.com/data-science/introduction-to-attention-mechanism-in-deep-learning-eli5-way-d6c2d799ef18
-68. https://medium.com/\@paulpierre/eli5-transformers-gpt-and-the-power-of-the-attention-mechanic-6504693f2c3f
-69. https://www.d2l.ai/chapter_attention-mechanisms-and-transformers/queries-keys-values.html
-70. https://apxml.com/courses/introduction-to-transformer-models/chapter-2-self-attention-multi-head-attention/query-key-value-vectors
-71. https://kumo.ai/research/introduction-to-graph-transformers/
-72. https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization
-73. https://www.dgl.ai/dgl_docs/tutorials/models/1_gnn/4_rgcn.html
+52. A. Joshi, A. Bhat, A. Jain, A. V. Singh, and A. Modi, “COGMEN: COntextualized GNN based multimodal emotion recognitioN,” in *Proc. 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)*, 2022, pp. 4148–4164.
+53. W. L. Hamilton, *Graph Representation Learning* (Synthesis Lectures on Artificial Intelligence and Machine Learning). San Rafael, CA, USA: Morgan & Claypool, 2020.
+54. B. Sanchez-Lengeling, E. Reif, A. Pearce, and A. B. Wiltschko, “A gentle introduction to graph neural networks,” *Distill*, 2021.
+55. J. Gilmer, S. S. Schoenholz, P. F. Riley, O. Vinyals, and G. E. Dahl, “Neural message passing for quantum chemistry,” in *Proc. 34th International Conference on Machine Learning (ICML)*, 2017, pp. 1263–1272.
+56. T. N. Kipf and M. Welling, “Semi-supervised classification with graph convolutional networks,” in *Proc. International Conference on Learning Representations (ICLR)*, 2017.
+57. U. Alon and E. Yahav, “On the bottleneck of graph neural networks and its practical implications,” in *Proc. International Conference on Learning Representations (ICLR)*, 2021.
+58. Q. Li, Z. Han, and X.-M. Wu, “Deeper insights into graph convolutional networks for semi-supervised learning,” in *Proc. AAAI Conference on Artificial Intelligence*, 2018, pp. 3538–3545.
+59. P. Veličković, G. Cucurull, A. Casanova, A. Romero, P. Liò, and Y. Bengio, “Graph attention networks,” in *Proc. International Conference on Learning Representations (ICLR)*, 2018.
+60. Y. Shi, Z. Huang, S. Feng, H. Zhong, W. Wang, and Y. Sun, “Masked label prediction: Unified message passing model for semi-supervised classification,” in *Proc. 30th International Joint Conference on Artificial Intelligence (IJCAI)*, 2021, pp. 1548–1554.
+61. V. P. Dwivedi and X. Bresson, “A generalization of transformer networks to graphs,” in *Proc. AAAI Workshop on Deep Learning on Graphs: Methods and Applications*, 2021.
+62. M. Schlichtkrull, T. N. Kipf, P. Bloem, R. van den Berg, I. Titov, and M. Welling, “Modeling relational data with graph convolutional networks,” in *The Semantic Web – ESWC 2018*, LNCS, vol. 10843, 2018, pp. 593–607.
+63. J. Devlin, M.-W. Chang, K. Lee, and K. Toutanova, “BERT: Pre-training of deep bidirectional transformers for language understanding,” in *Proc. NAACL-HLT*, 2019, pp. 4171–4186.
+64. A. Radford, K. Narasimhan, T. Salimans, and I. Sutskever, “Improving language understanding by generative pre-training,” OpenAI, Tech. Rep., 2018.
+65. X. Liu, F. Zhang, Z. Hou, L. Mian, Z. Wang, J. Zhang, and J. Tang, “Self-supervised learning: Generative or contrastive,” *IEEE Transactions on Knowledge and Data Engineering*, vol. 35, no. 1, pp. 857–876, 2023.
+66. P. Vincent, H. Larochelle, Y. Bengio, and P.-A. Manzagol, “Extracting and composing robust features with denoising autoencoders,” in *Proc. 25th International Conference on Machine Learning (ICML)*, 2008, pp. 1096–1103.
+67. D. Pathak, P. Krähenbühl, J. Donahue, T. Darrell, and A. A. Efros, “Context encoders: Feature learning by inpainting,” in *Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2016, pp. 2536–2544.
+68. K. He, X. Chen, S. Xie, Y. Li, P. Dollár, and R. Girshick, “Masked autoencoders are scalable vision learners,” in *Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2022, pp. 16000–16009.
+69. E. Littwin, O. Saremi, M. Advani, V. Thilak, P. Nakkiran, C. Huang, and J. Susskind, “How JEPA avoids noisy features: The implicit bias of deep linear self distillation networks,” in *Advances in Neural Information Processing Systems 37*, 2024.
+70. R. Hadsell, S. Chopra, and Y. LeCun, “Dimensionality reduction by learning an invariant mapping,” in *Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2006, pp. 1735–1742.
+71. T. Chen, S. Kornblith, M. Norouzi, and G. Hinton, “A simple framework for contrastive learning of visual representations,” in *Proc. 37th International Conference on Machine Learning (ICML)*, 2020, pp. 1597–1607.
+72. J.-B. Grill, F. Strub, F. Altché, C. Tallec, P. H. Richemond, E. Buchatskaya, C. Doersch, B. A. Pires, Z. D. Guo, M. G. Azar, B. Piot, K. Kavukcuoglu, R. Munos, and M. Valko, “Bootstrap your own latent: A new approach to self-supervised learning,” in *Advances in Neural Information Processing Systems 33*, 2020, pp. 21271–21284.
+73. M. Assran, Q. Duval, I. Misra, P. Bojanowski, P. Vincent, M. Rabbat, Y. LeCun, and N. Ballas, “Self-supervised learning from images with a joint-embedding predictive architecture,” in *Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2023, pp. 15619–15629.
+74. A. Bardes, Q. Garrido, J. Ponce, X. Chen, M. Rabbat, Y. LeCun, M. Assran, and N. Ballas, “Revisiting feature prediction for learning visual representations from video,” arXiv:2404.08471, 2024.
+75. Z. Fei, M. Fan, and J. Huang, “A-JEPA: Joint-embedding predictive architecture can listen,” arXiv:2311.15830, 2023.
+76. M. Assran *et al.*, “V-JEPA 2: Self-supervised video models enable understanding, prediction and planning,” arXiv:2506.09985, 2025.
+77. S. Ennadir, S. Golkar, and L. Sarra, “Joint embeddings go temporal,” arXiv:2509.25449, 2025.
+78. https://medium.com/\@RobuRishabh/recurrent-neural-network-rnn-8412b9abd755
+79. https://medium.com/\@fredroj/recurrent-neural-network-rnn-cell-internal-mechanism-ff5eca732adb
+80. https://www.geeksforgeeks.org/machine-learning/introduction-to-recurrent-neural-network/
+81. https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+82. https://poloclub.github.io/transformer-explainer/
+83. https://medium.com/data-science/introduction-to-attention-mechanism-in-deep-learning-eli5-way-d6c2d799ef18
+84. https://medium.com/\@paulpierre/eli5-transformers-gpt-and-the-power-of-the-attention-mechanic-6504693f2c3f
+85. https://www.d2l.ai/chapter_attention-mechanisms-and-transformers/queries-keys-values.html
+86. https://apxml.com/courses/introduction-to-transformer-models/chapter-2-self-attention-multi-head-attention/query-key-value-vectors
+87. https://kumo.ai/research/introduction-to-graph-transformers/
+88. https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization
+89. https://www.dgl.ai/dgl_docs/tutorials/models/1_gnn/4_rgcn.html

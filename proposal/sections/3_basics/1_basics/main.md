@@ -144,7 +144,6 @@ $$
 \label{fig:activations}
 \end{figure}
 
-\newpage
 
 ### 3.1.2 Вештачке неуронске мреже
 
