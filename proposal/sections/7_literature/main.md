@@ -77,15 +77,18 @@
 75. Z. Fei, M. Fan, and J. Huang, “A-JEPA: Joint-embedding predictive architecture can listen,” arXiv:2311.15830, 2023.
 76. M. Assran *et al.*, “V-JEPA 2: Self-supervised video models enable understanding, prediction and planning,” arXiv:2506.09985, 2025.
 77. S. Ennadir, S. Golkar, and L. Sarra, “Joint embeddings go temporal,” arXiv:2509.25449, 2025.
-78. https://medium.com/\@RobuRishabh/recurrent-neural-network-rnn-8412b9abd755
-79. https://medium.com/\@fredroj/recurrent-neural-network-rnn-cell-internal-mechanism-ff5eca732adb
-80. https://www.geeksforgeeks.org/machine-learning/introduction-to-recurrent-neural-network/
-81. https://colah.github.io/posts/2015-08-Understanding-LSTMs/
-82. https://poloclub.github.io/transformer-explainer/
-83. https://medium.com/data-science/introduction-to-attention-mechanism-in-deep-learning-eli5-way-d6c2d799ef18
-84. https://medium.com/\@paulpierre/eli5-transformers-gpt-and-the-power-of-the-attention-mechanic-6504693f2c3f
-85. https://www.d2l.ai/chapter_attention-mechanisms-and-transformers/queries-keys-values.html
-86. https://apxml.com/courses/introduction-to-transformer-models/chapter-2-self-attention-multi-head-attention/query-key-value-vectors
-87. https://kumo.ai/research/introduction-to-graph-transformers/
-88. https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization
-89. https://www.dgl.ai/dgl_docs/tutorials/models/1_gnn/4_rgcn.html
+78. A. Baevski, W.-N. Hsu, Q. Xu, A. Babu, J. Gu, and M. Auli, “data2vec: A general framework for self-supervised learning in speech, vision and language,” in *Proc. 39th International Conference on Machine Learning (ICML)*, 2022, pp. 1298–1312.
+79. J. Zhao, R. Li, and Q. Jin, “Missing modality imagination network for emotion recognition with uncertain missing modalities,” in *Proc. 59th Annual Meeting of the ACL and 11th International Joint Conference on Natural Language Processing*, 2021, pp. 2608–2618.
+80. Z. Lian, L. Chen, L. Sun, B. Liu, and J. Tao, “GCNet: Graph completion network for incomplete multimodal learning in conversation,” *IEEE Transactions on Pattern Analysis and Machine Intelligence*, vol. 45, no. 7, pp. 8419–8432, 2023.
+81. https://medium.com/\@RobuRishabh/recurrent-neural-network-rnn-8412b9abd755
+82. https://medium.com/\@fredroj/recurrent-neural-network-rnn-cell-internal-mechanism-ff5eca732adb
+83. https://www.geeksforgeeks.org/machine-learning/introduction-to-recurrent-neural-network/
+84. https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+85. https://poloclub.github.io/transformer-explainer/
+86. https://medium.com/data-science/introduction-to-attention-mechanism-in-deep-learning-eli5-way-d6c2d799ef18
+87. https://medium.com/\@paulpierre/eli5-transformers-gpt-and-the-power-of-the-attention-mechanic-6504693f2c3f
+88. https://www.d2l.ai/chapter_attention-mechanisms-and-transformers/queries-keys-values.html
+89. https://apxml.com/courses/introduction-to-transformer-models/chapter-2-self-attention-multi-head-attention/query-key-value-vectors
+90. https://kumo.ai/research/introduction-to-graph-transformers/
+91. https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization
+92. https://www.dgl.ai/dgl_docs/tutorials/models/1_gnn/4_rgcn.html
