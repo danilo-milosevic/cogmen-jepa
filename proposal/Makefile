@@ -1,5 +1,4 @@
-PDF=output/paper.pdf
-DOCX=output/paper.docx
+PDF=output/DaniloMilosevic-SIR.pdf
 
 MAIN=main.md
 SECTIONS=$(shell find sections -name '*.md' 2>/dev/null)
@@ -7,7 +6,7 @@ SECTIONS=$(shell find sections -name '*.md' 2>/dev/null)
 PANDOC=pandoc
 ENGINE=xelatex
 
-all: pdf docx
+all: pdf
 
 pdf: $(PDF)
 
@@ -19,17 +18,3 @@ $(PDF): $(MAIN) $(SECTIONS) include-files.lua
 		--resource-path=.:./figures:../figures \
 		--lua-filter=include-files.lua \
 		--citeproc
-
-docx: $(DOCX)
-
-$(DOCX): $(MAIN) $(SECTIONS) include-files.lua
-	if not exist output mkdir output
-	$(PANDOC) $(MAIN) \
-		-o $(DOCX) \
-		--resource-path=.:./figures:../figures \
-		--lua-filter=include-files.lua \
-		--citeproc \
-		$(if $(wildcard $(REFERENCE)),--reference-doc=$(REFERENCE),)
-
-clean:
-	if exist output rmdir /s /q output

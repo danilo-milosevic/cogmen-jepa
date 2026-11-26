@@ -17,10 +17,10 @@
 \centering
 \caption{F1 мера по емоцијама, тачност и пондерисана F1 мера (\%) на скупу \textit{IEMOCAP} са шест емоција, према [50]}
 \label{tab:iemocap_6}
-\resizebox{\textwidth}{!}{%
+\small
 \begin{tabular}{lcccccccc}
 \hline
-Модел & Срећа & Туга & Неутрално & Бес & Узбуђење & Фрустрација & Тачност & $F1_w$ \\
+Модел & Срећа & Туга & Неутр. & Бес & Узбуђ. & Фрустр. & Тачност & $F1_w$ \\
 \hline
 \textit{memnet} & 33.0 & 69.3 & 55.0 & 66.1 & 62.3 & 63.0 & 59.9 & 59.5 \\
 \textit{TFN} & 33.7 & 68.6 & 55.1 & 64.2 & 62.4 & 61.2 & 58.8 & 58.5 \\
@@ -29,7 +29,7 @@
 \textit{Af-CAN} & 37.0 & 72.1 & 60.7 & \textbf{67.3} & 66.5 & \textbf{66.1} & 64.6 & 63.7 \\
 \textit{COGMEN} & \textbf{51.9} & \textbf{81.7} & \textbf{68.6} & 66.0 & \textbf{75.3} & 58.2 & \textbf{68.2} & \textbf{67.6} \\
 \hline
-\end{tabular}}
+\end{tabular}
 \end{table}
 ```
 
@@ -72,13 +72,65 @@
 
 Оба режима се користе како би се резултати могли поредити са моделом *Multilogue-Net* [71], који је тестиран бинарном класификацијом, и моделом *TBJE* [70], тестираним у *multi-label* режиму.
 
-Код класификације сентимента са две класе, *COGMEN* постиже најбољу тачност од $85\%$ када је трениран над аудиом и текстом, док код класификације сентимента са седам класа постиже сличне резултате као и други модели (слика \ref{fig:mosei}).
+Код класификације сентимента са две класе, *COGMEN* постиже најбољу тачност од $85\%$ када је трениран над аудиом и текстом, док код класификације сентимента са седам класа постиже сличне резултате као и други модели (табела \ref{tab:mosei}), а резултати класификације емоција дати су у табелама \ref{tab:mosei_bin} и \ref{tab:mosei_ml}.
 
-\begin{figure}[H]
+\begin{table}[H]
 \centering
-\includegraphics[width=14cm]{figures/3_models/mosei.png}
-\caption{Перформансе \textit{COGMEN} модела на скупу \textit{CMU-MOSEI}, према [50]}
-\label{fig:mosei}
-\end{figure}
+\caption{Тачност класификације сентимента (\%) на скупу \textit{CMU-MOSEI}, према [50]}
+\label{tab:mosei}
+\begin{tabular}{llcc}
+\hline
+Модел & Модалитети & 2 класе & 7 класа \\
+\hline
+\textit{Multilogue-Net} & Т+А+В & 82.88 & \textbf{44.83} \\
+\textit{TBJE} & Т & 81.90 & 44.20 \\
+\textit{TBJE} & Т+А & 82.40 & 43.91 \\
+\textit{TBJE} & Т+А+В & 81.50 & 44.40 \\
+\textit{COGMEN} & Т & 84.42 & 43.50 \\
+\textit{COGMEN} & Т+А & \textbf{85.00} & 44.31 \\
+\textit{COGMEN} & Т+А+В & 84.34 & 43.90 \\
+\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+\centering
+\caption{Пондерисана F1 мера (\%) код бинарне класификације емоција на скупу \textit{CMU-MOSEI}, према [50]}
+\label{tab:mosei_bin}
+\small\setlength{\tabcolsep}{3pt}
+\begin{tabular}{llcccccc}
+\hline
+Модел & Модалитети & Срећа & Туга & Бес & Страх & Гађење & Изненађење \\
+\hline
+\textit{Multilogue-Net} & Т+А+В & 67.84 & 65.34 & 67.03 & 87.79 & 74.91 & \textbf{86.05} \\
+\textit{TBJE} & Т+А & 65.91 & 70.78 & 70.86 & 87.79 & 82.57 & 86.04 \\
+\textit{COGMEN} & Т & 69.28 & 70.49 & 73.04 & 87.80 & 83.69 & 85.83 \\
+\textit{COGMEN} & Т+А & 68.39 & \textbf{73.28} & 74.98 & 88.08 & \textbf{83.90} & 85.35 \\
+\textit{COGMEN} & Т+А+В & \textbf{70.42} & 72.31 & \textbf{76.20} & \textbf{88.17} & 83.69 & 85.28 \\
+\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+\centering
+\caption{Пондерисана F1 мера (\%) код \textit{multi-label} класификације емоција на скупу \textit{CMU-MOSEI}, према [50]}
+\label{tab:mosei_ml}
+\small\setlength{\tabcolsep}{3pt}
+\begin{tabular}{llcccccc}
+\hline
+Модел & Модалитети & Срећа & Туга & Бес & Страх & Гађење & Изненађење \\
+\hline
+\textit{Multilogue-Net} & Т+А+В & 70.60 & 70.70 & 74.40 & 86.00 & 83.40 & 87.80 \\
+\textit{TBJE} & Т & 63.40 & 65.80 & 75.30 & 84.00 & 84.50 & 81.40 \\
+\textit{TBJE} & Т+А & 65.50 & 67.90 & 76.00 & \textbf{87.20} & 84.50 & 86.10 \\
+\textit{TBJE} & Т+А+В & 64.00 & 67.90 & 74.70 & 84.00 & 83.60 & 86.10 \\
+\textit{COGMEN} & Т & 69.92 & 72.16 & 77.34 & 86.39 & \textbf{86.00} & 88.27 \\
+\textit{COGMEN} & Т+А & 69.62 & 72.67 & 76.93 & 86.39 & 85.35 & 88.21 \\
+\textit{COGMEN} & Т+А+В & \textbf{72.74} & \textbf{73.90} & \textbf{78.04} & 86.71 & 85.48 & \textbf{88.37} \\
+\hline
+\end{tabular}
+\end{table}
+
+\noindent Ознаке модалитета: Т – текст, А – аудио, В – видео.
 
 Може се приметити да други модели имају лошије перформансе када се током тренирања укључи и видео, док је *COGMEN* у стању да издвоји релевантне информације и из видеа.
