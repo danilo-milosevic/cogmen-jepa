@@ -19,8 +19,8 @@
 17. N. Cummins, S. Scherer, J. Krajewski, S. Schnieder, J. Epps, and T. F. Quatieri, “A review of depression and suicide risk assessment using speech analysis,” *Speech Communication*, vol. 71, pp. 10–49, 2015.
 18. S. Zepf, J. Hernandez, A. Schmitt, W. Minker, and R. W. Picard, “Driver emotion recognition for intelligent vehicles: A survey,” *ACM Computing Surveys*, vol. 53, no. 3, art. 64, 2020.
 19. E. Yadegaridehkordi, N. F. B. M. Noor, M. N. B. Ayub, H. B. Affal, and N. B. Hussin, “Affective computing in education: A systematic review and future research,” *Computers & Education*, vol. 142, art. 103649, 2019.
-20. D. McDuff, R. El Kaliouby, J. F. Cohn, and R. W. Picard, “Predicting ad liking and purchase intent: Large-scale analysis of facial responses to ads,” *IEEE Transactions on Affective Computing*, vol. 6, no. 3, pp. 223–235, 2015.
-21. “Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act),” *Official Journal of the European Union*, 2024, Art. 5(1)(f).
+20. “Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act),” *Official Journal of the European Union*, 2024, Art. 5(1)(f).
+21. D. McDuff, R. El Kaliouby, J. F. Cohn, and R. W. Picard, “Predicting ad liking and purchase intent: Large-scale analysis of facial responses to ads,” *IEEE Transactions on Affective Computing*, vol. 6, no. 3, pp. 223–235, 2015.
 22. Y. LeCun, Y. Bengio, and G. Hinton, “Deep learning,” *Nature*, vol. 521, no. 7553, pp. 436–444, 2015.
 23. W. S. McCulloch and W. Pitts, “A logical calculus of the ideas immanent in nervous activity,” *The Bulletin of Mathematical Biophysics*, vol. 5, no. 4, pp. 115–133, 1943.
 24. F. Rosenblatt, “The perceptron: A probabilistic model for information storage and organization in the brain,” *Psychological Review*, vol. 65, no. 6, pp. 386–408, 1958.
@@ -29,37 +29,37 @@
 27. V. Nair and G. E. Hinton, “Rectified linear units improve restricted Boltzmann machines,” in *Proc. 27th International Conference on Machine Learning (ICML)*, 2010, pp. 807–814.
 28. A. L. Maas, A. Y. Hannun, and A. Y. Ng, “Rectifier nonlinearities improve neural network acoustic models,” in *Proc. ICML Workshop on Deep Learning for Audio, Speech and Language Processing*, 2013.
 29. D. Hendrycks and K. Gimpel, “Gaussian error linear units (GELUs),” arXiv:1606.08415, 2016.
-30. F. van Veen and S. Leijnen, “The neural network zoo,” The Asimov Institute, 2019. [Online]. Available: https://www.asimovinstitute.org/neural-network-zoo/
-31. X. Glorot and Y. Bengio, “Understanding the difficulty of training deep feedforward neural networks,” in *Proc. 13th International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2010, pp. 249–256.
-32. K. He, X. Zhang, S. Ren, and J. Sun, “Delving deep into rectifiers: Surpassing human-level performance on ImageNet classification,” in *Proc. IEEE International Conference on Computer Vision (ICCV)*, 2015, pp. 1026–1034.
-33. D. E. Rumelhart, G. E. Hinton, and R. J. Williams, “Learning representations by back-propagating errors,” *Nature*, vol. 323, no. 6088, pp. 533–536, 1986.
-34. S. Ruder, “An overview of gradient descent optimization algorithms,” arXiv:1609.04747, 2016.
-35. H. Robbins and S. Monro, “A stochastic approximation method,” *The Annals of Mathematical Statistics*, vol. 22, no. 3, pp. 400–407, 1951.
-36. D. P. Kingma and J. Ba, “Adam: A method for stochastic optimization,” in *Proc. International Conference on Learning Representations (ICLR)*, 2015.
-37. I. Loshchilov and F. Hutter, “Decoupled weight decay regularization,” in *Proc. International Conference on Learning Representations (ICLR)*, 2019.
-38. N. Srivastava, G. Hinton, A. Krizhevsky, I. Sutskever, and R. Salakhutdinov, “Dropout: A simple way to prevent neural networks from overfitting,” *Journal of Machine Learning Research*, vol. 15, no. 56, pp. 1929–1958, 2014.
-39. S. Ioffe and C. Szegedy, “Batch normalization: Accelerating deep network training by reducing internal covariate shift,” in *Proc. 32nd International Conference on Machine Learning (ICML)*, 2015, pp. 448–456.
-40. J. L. Ba, J. R. Kiros, and G. E. Hinton, “Layer normalization,” arXiv:1607.06450, 2016.
-41. Y. Bengio, P. Simard, and P. Frasconi, “Learning long-term dependencies with gradient descent is difficult,” *IEEE Transactions on Neural Networks*, vol. 5, no. 2, pp. 157–166, 1994.
-42. R. Pascanu, T. Mikolov, and Y. Bengio, “On the difficulty of training recurrent neural networks,” in *Proc. 30th International Conference on Machine Learning (ICML)*, 2013, pp. 1310–1318.
-43. S. Hochreiter and J. Schmidhuber, “Long short-term memory,” *Neural Computation*, vol. 9, no. 8, pp. 1735–1780, 1997.
-44. I. Sutskever, O. Vinyals, and Q. V. Le, “Sequence to sequence learning with neural networks,” in *Advances in Neural Information Processing Systems 27*, 2014, pp. 3104–3112.
-45. D. Bahdanau, K. Cho, and Y. Bengio, “Neural machine translation by jointly learning to align and translate,” in *Proc. International Conference on Learning Representations (ICLR)*, 2015.
-46. P. Bloem, “Transformers from scratch,” 2019. [Online]. Available: https://peterbloem.nl/blog/transformers
-47. A. Vaswani, N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones, A. N. Gomez, Ł. Kaiser, and I. Polosukhin, “Attention is all you need,” in *Advances in Neural Information Processing Systems 30*, 2017, pp. 5998–6008.
-48. A. Zhang, Z. C. Lipton, M. Li, and A. J. Smola, *Dive into Deep Learning*. Cambridge, U.K.: Cambridge University Press, 2023. [Online]. Available: https://d2l.ai
-49. K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image recognition,” in *Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2016, pp. 770–778.
-50. A. Joshi, A. Bhat, A. Jain, A. V. Singh, and A. Modi, “COGMEN: COntextualized GNN based multimodal emotion recognitioN,” in *Proc. 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)*, 2022, pp. 4148–4164.
-51. W. L. Hamilton, *Graph Representation Learning* (Synthesis Lectures on Artificial Intelligence and Machine Learning). San Rafael, CA, USA: Morgan & Claypool, 2020.
-52. B. Sanchez-Lengeling, E. Reif, A. Pearce, and A. B. Wiltschko, “A gentle introduction to graph neural networks,” *Distill*, 2021.
-53. J. Gilmer, S. S. Schoenholz, P. F. Riley, O. Vinyals, and G. E. Dahl, “Neural message passing for quantum chemistry,” in *Proc. 34th International Conference on Machine Learning (ICML)*, 2017, pp. 1263–1272.
-54. T. N. Kipf and M. Welling, “Semi-supervised classification with graph convolutional networks,” in *Proc. International Conference on Learning Representations (ICLR)*, 2017.
-55. U. Alon and E. Yahav, “On the bottleneck of graph neural networks and its practical implications,” in *Proc. International Conference on Learning Representations (ICLR)*, 2021.
-56. Q. Li, Z. Han, and X.-M. Wu, “Deeper insights into graph convolutional networks for semi-supervised learning,” in *Proc. AAAI Conference on Artificial Intelligence*, 2018, pp. 3538–3545.
-57. P. Veličković, G. Cucurull, A. Casanova, A. Romero, P. Liò, and Y. Bengio, “Graph attention networks,” in *Proc. International Conference on Learning Representations (ICLR)*, 2018.
-58. Y. Shi, Z. Huang, S. Feng, H. Zhong, W. Wang, and Y. Sun, “Masked label prediction: Unified message passing model for semi-supervised classification,” in *Proc. 30th International Joint Conference on Artificial Intelligence (IJCAI)*, 2021, pp. 1548–1554.
-59. V. P. Dwivedi and X. Bresson, “A generalization of transformer networks to graphs,” in *Proc. AAAI Workshop on Deep Learning on Graphs: Methods and Applications*, 2021.
-60. M. Schlichtkrull, T. N. Kipf, P. Bloem, R. van den Berg, I. Titov, and M. Welling, “Modeling relational data with graph convolutional networks,” in *The Semantic Web – ESWC 2018*, LNCS, vol. 10843, 2018, pp. 593–607.
+30. X. Glorot and Y. Bengio, “Understanding the difficulty of training deep feedforward neural networks,” in *Proc. 13th International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2010, pp. 249–256.
+31. K. He, X. Zhang, S. Ren, and J. Sun, “Delving deep into rectifiers: Surpassing human-level performance on ImageNet classification,” in *Proc. IEEE International Conference on Computer Vision (ICCV)*, 2015, pp. 1026–1034.
+32. D. E. Rumelhart, G. E. Hinton, and R. J. Williams, “Learning representations by back-propagating errors,” *Nature*, vol. 323, no. 6088, pp. 533–536, 1986.
+33. S. Ruder, “An overview of gradient descent optimization algorithms,” arXiv:1609.04747, 2016.
+34. H. Robbins and S. Monro, “A stochastic approximation method,” *The Annals of Mathematical Statistics*, vol. 22, no. 3, pp. 400–407, 1951.
+35. D. P. Kingma and J. Ba, “Adam: A method for stochastic optimization,” in *Proc. International Conference on Learning Representations (ICLR)*, 2015.
+36. I. Loshchilov and F. Hutter, “Decoupled weight decay regularization,” in *Proc. International Conference on Learning Representations (ICLR)*, 2019.
+37. N. Srivastava, G. Hinton, A. Krizhevsky, I. Sutskever, and R. Salakhutdinov, “Dropout: A simple way to prevent neural networks from overfitting,” *Journal of Machine Learning Research*, vol. 15, no. 56, pp. 1929–1958, 2014.
+38. S. Ioffe and C. Szegedy, “Batch normalization: Accelerating deep network training by reducing internal covariate shift,” in *Proc. 32nd International Conference on Machine Learning (ICML)*, 2015, pp. 448–456.
+39. J. L. Ba, J. R. Kiros, and G. E. Hinton, “Layer normalization,” arXiv:1607.06450, 2016.
+40. Y. Bengio, P. Simard, and P. Frasconi, “Learning long-term dependencies with gradient descent is difficult,” *IEEE Transactions on Neural Networks*, vol. 5, no. 2, pp. 157–166, 1994.
+41. R. Pascanu, T. Mikolov, and Y. Bengio, “On the difficulty of training recurrent neural networks,” in *Proc. 30th International Conference on Machine Learning (ICML)*, 2013, pp. 1310–1318.
+42. S. Hochreiter and J. Schmidhuber, “Long short-term memory,” *Neural Computation*, vol. 9, no. 8, pp. 1735–1780, 1997.
+43. I. Sutskever, O. Vinyals, and Q. V. Le, “Sequence to sequence learning with neural networks,” in *Advances in Neural Information Processing Systems 27*, 2014, pp. 3104–3112.
+44. D. Bahdanau, K. Cho, and Y. Bengio, “Neural machine translation by jointly learning to align and translate,” in *Proc. International Conference on Learning Representations (ICLR)*, 2015.
+45. P. Bloem, “Transformers from scratch,” 2019. [Online]. Available: https://peterbloem.nl/blog/transformers
+46. A. Vaswani, N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones, A. N. Gomez, Ł. Kaiser, and I. Polosukhin, “Attention is all you need,” in *Advances in Neural Information Processing Systems 30*, 2017, pp. 5998–6008.
+47. A. Zhang, Z. C. Lipton, M. Li, and A. J. Smola, *Dive into Deep Learning*. Cambridge, U.K.: Cambridge University Press, 2023. [Online]. Available: https://d2l.ai
+48. K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image recognition,” in *Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2016, pp. 770–778.
+49. A. Joshi, A. Bhat, A. Jain, A. V. Singh, and A. Modi, “COGMEN: COntextualized GNN based multimodal emotion recognitioN,” in *Proc. 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)*, 2022, pp. 4148–4164.
+50. W. L. Hamilton, *Graph Representation Learning* (Synthesis Lectures on Artificial Intelligence and Machine Learning). San Rafael, CA, USA: Morgan & Claypool, 2020.
+51. B. Sanchez-Lengeling, E. Reif, A. Pearce, and A. B. Wiltschko, “A gentle introduction to graph neural networks,” *Distill*, 2021.
+52. J. Gilmer, S. S. Schoenholz, P. F. Riley, O. Vinyals, and G. E. Dahl, “Neural message passing for quantum chemistry,” in *Proc. 34th International Conference on Machine Learning (ICML)*, 2017, pp. 1263–1272.
+53. T. N. Kipf and M. Welling, “Semi-supervised classification with graph convolutional networks,” in *Proc. International Conference on Learning Representations (ICLR)*, 2017.
+54. U. Alon and E. Yahav, “On the bottleneck of graph neural networks and its practical implications,” in *Proc. International Conference on Learning Representations (ICLR)*, 2021.
+55. Q. Li, Z. Han, and X.-M. Wu, “Deeper insights into graph convolutional networks for semi-supervised learning,” in *Proc. AAAI Conference on Artificial Intelligence*, 2018, pp. 3538–3545.
+56. P. Veličković, G. Cucurull, A. Casanova, A. Romero, P. Liò, and Y. Bengio, “Graph attention networks,” in *Proc. International Conference on Learning Representations (ICLR)*, 2018.
+57. Y. Shi, Z. Huang, S. Feng, H. Zhong, W. Wang, and Y. Sun, “Masked label prediction: Unified message passing model for semi-supervised classification,” in *Proc. 30th International Joint Conference on Artificial Intelligence (IJCAI)*, 2021, pp. 1548–1554.
+58. V. P. Dwivedi and X. Bresson, “A generalization of transformer networks to graphs,” in *Proc. AAAI Workshop on Deep Learning on Graphs: Methods and Applications*, 2021.
+59. M. Schlichtkrull, T. N. Kipf, P. Bloem, R. van den Berg, I. Titov, and M. Welling, “Modeling relational data with graph convolutional networks,” in *The Semantic Web – ESWC 2018*, LNCS, vol. 10843, 2018, pp. 593–607.
+60. A. Joshi, A. Bhat, A. Jain, A. V. Singh, and A. Modi, “COGMEN: COntextualized GNN based multimodal emotion recognitioN,” official implementation, GitHub repository Exploration-Lab/COGMEN, 2022. [Online]. Available: https://github.com/Exploration-Lab/COGMEN
 61. F. Eyben, M. Wöllmer, and B. Schuller, “openSMILE: The Munich versatile and fast open-source audio feature extractor,” in *Proc. 18th ACM International Conference on Multimedia (MM ’10)*, 2010, pp. 1459–1462.
 62. T. Baltrušaitis, A. Zadeh, Y. C. Lim, and L.-P. Morency, “OpenFace 2.0: Facial behavior analysis toolkit,” in *Proc. 13th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2018)*, 2018, pp. 59–66.
 63. N. Reimers and I. Gurevych, “Sentence-BERT: Sentence embeddings using Siamese BERT-networks,” in *Proc. 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP-IJCNLP)*, 2019, pp. 3982–3992.
@@ -87,9 +87,9 @@
 85. A. Bardes, Q. Garrido, J. Ponce, X. Chen, M. Rabbat, Y. LeCun, M. Assran, and N. Ballas, “Revisiting feature prediction for learning visual representations from video,” arXiv:2404.08471, 2024.
 86. Z. Fei, M. Fan, and J. Huang, “A-JEPA: Joint-embedding predictive architecture can listen,” arXiv:2311.15830, 2023.
 87. M. Assran *et al.*, “V-JEPA 2: Self-supervised video models enable understanding, prediction and planning,” arXiv:2506.09985, 2025.
-88. S. Ennadir, S. Golkar, and L. Sarra, “Joint embeddings go temporal,” in *NeurIPS 2024 Workshop on Time Series in the Age of Large Models*, 2024, arXiv:2509.25449.
-89. P. J. Rousseeuw, “Silhouettes: A graphical aid to the interpretation and validation of cluster analysis,” *Journal of Computational and Applied Mathematics*, vol. 20, pp. 53–65, 1987.
-90. A. Baevski, W.-N. Hsu, Q. Xu, A. Babu, J. Gu, and M. Auli, “data2vec: A general framework for self-supervised learning in speech, vision and language,” in *Proc. 39th International Conference on Machine Learning (ICML)*, 2022, pp. 1298–1312.
+88. A. Baevski, W.-N. Hsu, Q. Xu, A. Babu, J. Gu, and M. Auli, “data2vec: A general framework for self-supervised learning in speech, vision and language,” in *Proc. 39th International Conference on Machine Learning (ICML)*, 2022, pp. 1298–1312.
+89. S. Ennadir, S. Golkar, and L. Sarra, “Joint embeddings go temporal,” in *NeurIPS 2024 Workshop on Time Series in the Age of Large Models*, 2024, arXiv:2509.25449.
+90. P. J. Rousseeuw, “Silhouettes: A graphical aid to the interpretation and validation of cluster analysis,” *Journal of Computational and Applied Mathematics*, vol. 20, pp. 53–65, 1987.
 91. J. Zhao, R. Li, and Q. Jin, “Missing modality imagination network for emotion recognition with uncertain missing modalities,” in *Proc. 59th Annual Meeting of the ACL and 11th International Joint Conference on Natural Language Processing*, 2021, pp. 2608–2618.
 92. Z. Lian, L. Chen, L. Sun, B. Liu, and J. Tao, “GCNet: Graph completion network for incomplete multimodal learning in conversation,” *IEEE Transactions on Pattern Analysis and Machine Intelligence*, vol. 45, no. 7, pp. 8419–8432, 2023.
 93. C.-V. T. Nguyen, A.-T. Mai, T.-S. Le, H.-D. Kieu, and D.-T. Le, “Conversation understanding using relational temporal graph neural networks with auxiliary cross-modality interaction,” in *Proc. 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2023, pp. 15154–15167.

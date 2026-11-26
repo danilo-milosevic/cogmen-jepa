@@ -15,7 +15,7 @@
 ```{=latex}
 \begin{table}[H]
 \centering
-\caption{F1 мера по емоцијама, тачност и пондерисана F1 мера (\%) на скупу \textit{IEMOCAP} са шест емоција, према [50]}
+\caption{F1 мера по емоцијама, тачност и пондерисана F1 мера (\%) на скупу \textit{IEMOCAP} са шест емоција, према [49]}
 \label{tab:iemocap_6}
 \small
 \begin{tabular}{lcccccccc}
@@ -40,7 +40,7 @@
 ```{=latex}
 \begin{table}[H]
 \centering
-\caption{Пондерисана F1 мера (\%) на скупу \textit{IEMOCAP} са четири емоције, према [50]}
+\caption{Пондерисана F1 мера (\%) на скупу \textit{IEMOCAP} са четири емоције, према [49]}
 \label{tab:iemocap_4}
 \begin{tabular}{lc}
 \hline
@@ -76,7 +76,7 @@
 
 \begin{table}[H]
 \centering
-\caption{Тачност класификације сентимента (\%) на скупу \textit{CMU-MOSEI}, према [50]}
+\caption{Тачност класификације сентимента (\%) на скупу \textit{CMU-MOSEI}, према [49]}
 \label{tab:mosei}
 \begin{tabular}{llcc}
 \hline
@@ -95,7 +95,7 @@
 
 \begin{table}[H]
 \centering
-\caption{Пондерисана F1 мера (\%) код бинарне класификације емоција на скупу \textit{CMU-MOSEI}, према [50]}
+\caption{Пондерисана F1 мера (\%) код бинарне класификације емоција на скупу \textit{CMU-MOSEI}, према [49]}
 \label{tab:mosei_bin}
 \small\setlength{\tabcolsep}{3pt}
 \begin{tabular}{llcccccc}
@@ -113,7 +113,7 @@
 
 \begin{table}[H]
 \centering
-\caption{Пондерисана F1 мера (\%) код \textit{multi-label} класификације емоција на скупу \textit{CMU-MOSEI}, према [50]}
+\caption{Пондерисана F1 мера (\%) код \textit{multi-label} класификације емоција на скупу \textit{CMU-MOSEI}, према [49]}
 \label{tab:mosei_ml}
 \small\setlength{\tabcolsep}{3pt}
 \begin{tabular}{llcccccc}
