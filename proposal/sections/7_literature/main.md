@@ -71,7 +71,7 @@
 69. N. Majumder, D. Hazarika, A. Gelbukh, E. Cambria, and S. Poria, “Multimodal sentiment analysis using hierarchical fusion with context modeling,” *Knowledge-Based Systems*, vol. 161, pp. 124–133, 2018.
 70. J.-B. Delbrouck, N. Tits, M. Brousmiche, and S. Dupont, “A transformer-based joint-encoding for emotion recognition and sentiment analysis,” in *Proc. Second Grand-Challenge and Workshop on Multimodal Language (Challenge-HML)*, 2020, pp. 1–7.
 71. A. Shenoy and A. Sardana, “Multilogue-Net: A context-aware RNN for multi-modal emotion detection and sentiment analysis in conversation,” in *Proc. Second Grand-Challenge and Workshop on Multimodal Language (Challenge-HML)*, 2020, pp. 19–28.
-72. T. Đurkić, N. Simić, S. Suzić, D. Bajović, Z. Perić, and V. Delić, “Multimodal emotion recognition using compressed graph neural networks,” in *Speech and Computer – SPECOM 2024*, LNAI, vol. 15300. Cham, Switzerland: Springer, 2025, doi: 10.1007/978-3-031-78014-1_9.
+72. T. Đurkić, N. Simić, S. Suzić, D. Bajović, Z. Perić, and V. Delić, “Multimodal emotion recognition using compressed graph neural networks,” in *Speech and Computer – SPECOM 2024*, LNAI, vol. 15300. Cham, Switzerland: Springer, 2025, pp. 109–121, doi: 10.1007/978-3-031-78014-1_9.
 73. M. Rastegari, V. Ordonez, J. Redmon, and A. Farhadi, “XNOR-Net: ImageNet classification using binary convolutional neural networks,” in *Proc. European Conference on Computer Vision (ECCV)*, LNCS, vol. 9908, 2016, pp. 525–542.
 74. J. Devlin, M.-W. Chang, K. Lee, and K. Toutanova, “BERT: Pre-training of deep bidirectional transformers for language understanding,” in *Proc. NAACL-HLT*, 2019, pp. 4171–4186.
 75. A. Radford, K. Narasimhan, T. Salimans, and I. Sutskever, “Improving language understanding by generative pre-training,” OpenAI, Tech. Rep., 2018.
@@ -87,7 +87,7 @@
 85. A. Bardes, Q. Garrido, J. Ponce, X. Chen, M. Rabbat, Y. LeCun, M. Assran, and N. Ballas, “Revisiting feature prediction for learning visual representations from video,” arXiv:2404.08471, 2024.
 86. Z. Fei, M. Fan, and J. Huang, “A-JEPA: Joint-embedding predictive architecture can listen,” arXiv:2311.15830, 2023.
 87. M. Assran *et al.*, “V-JEPA 2: Self-supervised video models enable understanding, prediction and planning,” arXiv:2506.09985, 2025.
-88. S. Ennadir, S. Golkar, and L. Sarra, “Joint embeddings go temporal,” arXiv:2509.25449, 2025.
+88. S. Ennadir, S. Golkar, and L. Sarra, “Joint embeddings go temporal,” in *NeurIPS 2024 Workshop on Time Series in the Age of Large Models*, 2024, arXiv:2509.25449.
 89. P. J. Rousseeuw, “Silhouettes: A graphical aid to the interpretation and validation of cluster analysis,” *Journal of Computational and Applied Mathematics*, vol. 20, pp. 53–65, 1987.
 90. A. Baevski, W.-N. Hsu, Q. Xu, A. Babu, J. Gu, and M. Auli, “data2vec: A general framework for self-supervised learning in speech, vision and language,” in *Proc. 39th International Conference on Machine Learning (ICML)*, 2022, pp. 1298–1312.
 91. J. Zhao, R. Li, and Q. Jin, “Missing modality imagination network for emotion recognition with uncertain missing modalities,” in *Proc. 59th Annual Meeting of the ACL and 11th International Joint Conference on Natural Language Processing*, 2021, pp. 2608–2618.
