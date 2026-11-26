@@ -23,7 +23,7 @@
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=5cm]{figures/1_introduction/ekman.jpg}
+\includegraphics[width=8cm]{figures/1_introduction/ekman.jpg}
 \caption{Екманов модел емоција, према [3]}
 \label{fig:ekman}
 \end{figure}
@@ -32,7 +32,7 @@
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=5cm]{figures/1_introduction/plutchik.png}
+\includegraphics[width=8cm]{figures/1_introduction/plutchik.png}
 \caption{Плутчиков точак емоција, према [4]}
 \label{fig:plutchik}
 \end{figure}
@@ -47,7 +47,7 @@
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=5cm]{figures/1_introduction/russel.png}
+\includegraphics[width=8cm]{figures/1_introduction/russel.png}
 \caption{Раселов димензионални модел емоција, према [5]}
 \label{fig:russel}
 \end{figure}

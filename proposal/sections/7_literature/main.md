@@ -39,9 +39,9 @@
 37. N. Srivastava, G. Hinton, A. Krizhevsky, I. Sutskever, and R. Salakhutdinov, “Dropout: A simple way to prevent neural networks from overfitting,” *Journal of Machine Learning Research*, vol. 15, no. 56, pp. 1929–1958, 2014.
 38. S. Ioffe and C. Szegedy, “Batch normalization: Accelerating deep network training by reducing internal covariate shift,” in *Proc. 32nd International Conference on Machine Learning (ICML)*, 2015, pp. 448–456.
 39. J. L. Ba, J. R. Kiros, and G. E. Hinton, “Layer normalization,” arXiv:1607.06450, 2016.
-40. Y. Bengio, P. Simard, and P. Frasconi, “Learning long-term dependencies with gradient descent is difficult,” *IEEE Transactions on Neural Networks*, vol. 5, no. 2, pp. 157–166, 1994.
-41. R. Pascanu, T. Mikolov, and Y. Bengio, “On the difficulty of training recurrent neural networks,” in *Proc. 30th International Conference on Machine Learning (ICML)*, 2013, pp. 1310–1318.
-42. S. Hochreiter and J. Schmidhuber, “Long short-term memory,” *Neural Computation*, vol. 9, no. 8, pp. 1735–1780, 1997.
+40. S. Hochreiter and J. Schmidhuber, “Long short-term memory,” *Neural Computation*, vol. 9, no. 8, pp. 1735–1780, 1997.
+41. Y. Bengio, P. Simard, and P. Frasconi, “Learning long-term dependencies with gradient descent is difficult,” *IEEE Transactions on Neural Networks*, vol. 5, no. 2, pp. 157–166, 1994.
+42. R. Pascanu, T. Mikolov, and Y. Bengio, “On the difficulty of training recurrent neural networks,” in *Proc. 30th International Conference on Machine Learning (ICML)*, 2013, pp. 1310–1318.
 43. I. Sutskever, O. Vinyals, and Q. V. Le, “Sequence to sequence learning with neural networks,” in *Advances in Neural Information Processing Systems 27*, 2014, pp. 3104–3112.
 44. D. Bahdanau, K. Cho, and Y. Bengio, “Neural machine translation by jointly learning to align and translate,” in *Proc. International Conference on Learning Representations (ICLR)*, 2015.
 45. P. Bloem, “Transformers from scratch,” 2019. [Online]. Available: https://peterbloem.nl/blog/transformers
@@ -59,7 +59,7 @@
 57. Y. Shi, Z. Huang, S. Feng, H. Zhong, W. Wang, and Y. Sun, “Masked label prediction: Unified message passing model for semi-supervised classification,” in *Proc. 30th International Joint Conference on Artificial Intelligence (IJCAI)*, 2021, pp. 1548–1554.
 58. V. P. Dwivedi and X. Bresson, “A generalization of transformer networks to graphs,” in *Proc. AAAI Workshop on Deep Learning on Graphs: Methods and Applications*, 2021.
 59. M. Schlichtkrull, T. N. Kipf, P. Bloem, R. van den Berg, I. Titov, and M. Welling, “Modeling relational data with graph convolutional networks,” in *The Semantic Web – ESWC 2018*, LNCS, vol. 10843, 2018, pp. 593–607.
-60. A. Joshi, A. Bhat, A. Jain, A. V. Singh, and A. Modi, “COGMEN: COntextualized GNN based multimodal emotion recognitioN,” official implementation, GitHub repository Exploration-Lab/COGMEN, 2022. [Online]. Available: https://github.com/Exploration-Lab/COGMEN
+60. A. Joshi, A. Bhat, A. Jain, A. V. Singh, and A. Modi, “COGMEN: COntextualized GNN based multimodal emotion recognitioN,” official implementation, GitHub repository Exploration-Lab/COGMEN, commit 8c00c9b, Jul. 2022. [Online]. Available: https://github.com/Exploration-Lab/COGMEN
 61. F. Eyben, M. Wöllmer, and B. Schuller, “openSMILE: The Munich versatile and fast open-source audio feature extractor,” in *Proc. 18th ACM International Conference on Multimedia (MM ’10)*, 2010, pp. 1459–1462.
 62. T. Baltrušaitis, A. Zadeh, Y. C. Lim, and L.-P. Morency, “OpenFace 2.0: Facial behavior analysis toolkit,” in *Proc. 13th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2018)*, 2018, pp. 59–66.
 63. N. Reimers and I. Gurevych, “Sentence-BERT: Sentence embeddings using Siamese BERT-networks,” in *Proc. 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP-IJCNLP)*, 2019, pp. 3982–3992.

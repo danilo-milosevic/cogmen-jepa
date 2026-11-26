@@ -38,7 +38,7 @@
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=8cm]{figures/3_models/jepa-masking.png}
+\includegraphics[width=15cm]{figures/3_models/jepa-masking.png}
 \caption{\textit{V-JEPA 2}: маскирање делова видеа (лево) и предвиђање будућег кадра (десно), према [87]}
 \label{fig:jepa-mask}
 \end{figure}

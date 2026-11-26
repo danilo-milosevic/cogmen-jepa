@@ -84,7 +84,7 @@ m_{\mathcal{N}(u)} = \sum_{v \in \mathcal{N}(u)} \alpha_{u,v} v_v, \qquad \alpha
 \label{eq:3-61}
 \end{equation}
 
-\noindent Ово је управо *attention* механизам из одељка 3.2.3, при чему чвор може да примени *attention* само на своје суседе, што одговара маскирању свих чворова који нису суседи (слика \ref{fig:gt}). *COGMEN* модел користи управо овај облик граф трансформера (слој *TransformerConv* [57]), а не адитивни *attention* *GAT* мреже.
+\noindent Ово је управо *attention* механизам из одељка 3.2.2, при чему чвор може да примени *attention* само на своје суседе, што одговара маскирању свих чворова који нису суседи (слика \ref{fig:gt}). *COGMEN* модел користи управо овај облик граф трансформера (слој *TransformerConv* [57]), а не адитивни *attention* *GAT* мреже.
 
 \begin{figure}[H]
 \centering

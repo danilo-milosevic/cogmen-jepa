@@ -6,7 +6,7 @@
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=8cm]{figures/3_models/bert.png}
+\includegraphics[width=12cm]{figures/3_models/bert.png}
 \caption{\textit{BERT} модел, према [74]}
 \label{fig:bert}
 \end{figure}
@@ -25,7 +25,7 @@
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=8cm]{figures/3_models/context-encoder.png}
+\includegraphics[width=13cm]{figures/3_models/context-encoder.png}
 \caption{Реконструкција скривених делова слике аутоенкодером, према [78]}
 \label{fig:ce}
 \end{figure}
@@ -65,7 +65,7 @@ L_i = -\log \frac{\exp\left(\mathrm{sim}(z_i, z_i^+)/\tau\right)}{\sum_{j \neq i
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=8cm]{figures/3_models/simclr.png}
+\includegraphics[width=10cm]{figures/3_models/simclr.png}
 \caption{\textit{SimCLR} – привлачење аугментација исте слике и одбијање различитих слика, према [82]}
 \label{fig:simclr}
 \end{figure}
@@ -82,7 +82,7 @@ L_i = -\log \frac{\exp\left(\mathrm{sim}(z_i, z_i^+)/\tau\right)}{\sum_{j \neq i
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=10cm]{figures/3_models/jepa.png}
+\includegraphics[width=11cm]{figures/3_models/jepa.png}
 \caption{\textit{JEPA} модел за слике (\textit{I-JEPA}), према [84]}
 \label{fig:jepa}
 \end{figure}
